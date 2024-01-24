@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 안녕하세요. 개발자 손석현입니다. 👋
 
 <!--
 **ssh5340/ssh5340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
