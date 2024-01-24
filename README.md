@@ -1,6 +1,6 @@
-#👋 안녕하세요 개발자 손석현입니다. 👋
+👋 **안녕하세요 개발자 손석현입니다.** 👋
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=000000"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat&logo=springboot&logoColor=000000"/> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat&logo=docker&logoColor=000000"/><img src="https://img.shields.io/badge/JAVA-437291?style=flat&logo=openjdk&logoColor=000000"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh5340&show_icons=true&theme=radical)
 
