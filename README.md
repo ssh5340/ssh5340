@@ -1,5 +1,7 @@
 👋 안녕하세요 개발자 손석현입니다. 👋
 
+<a target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=#40AEF0&logoColor=FFFFFF"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh5340&show_icons=true&theme=radical)
 
 <!--
