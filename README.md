@@ -1,4 +1,6 @@
-👋 안녕하세요. 개발자 손석현입니다. 👋
+👋 안녕하세요 개발자 손석현입니다. 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh5340&show_icons=true&theme=radical)
 
 <!--
 **ssh5340/ssh5340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
