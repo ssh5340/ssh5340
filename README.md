@@ -1,6 +1,6 @@
 👋 안녕하세요 개발자 손석현입니다. 👋
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-FFFFFF?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh5340&show_icons=true&theme=radical)
 
