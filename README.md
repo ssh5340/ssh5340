@@ -20,4 +20,4 @@
 > ### ETC ✨
 <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat&logo=adobephotoshop&logoColor=000000"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh5340&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssh5340&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh5340)](https://solved.ac/sh5340/)
