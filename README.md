@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat&logo=windows10&logoColor=000000"/> <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=000000"/> <img src="https://img.shields.io/badge/UBUNTU-E95420?style=flat&logo=ubuntu&logoColor=000000"/>
 
 > ### COLLABO 💬
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=000000"/> <img src="https://img.shields.io/badge/JIRA-4A154B?style=flat&logo=slack&logoColor=000000"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=notion&logoColor=FFFFFF"/>
 
 > ### ETC ✨
 <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat&logo=adobephotoshop&logoColor=000000"/>
